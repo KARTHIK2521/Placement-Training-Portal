@@ -1,0 +1,44 @@
+body{
+
+	background: url(kvt.jpg) no-repeat center center fixed;
+  background-size: cover;
+   	
+}
+
+.hero{
+
+	color: #fff;
+	margin-top:15%;
+	text-align: left;
+	font-size: 70px;
+	letter-spacing: -.05em;
+	line-height: 1.2em;
+	font-family: 'Amatic SC', cursive;
+}
+
+.ima{
+	height: 400px;
+	width: 200px;
+}
+.hero1{
+
+	color: #fff;
+	margin-top:1%;
+	margin-left: 80px;
+	text-align: left;
+	font-size: 50px;
+	letter-spacing: -.05em;
+	line-height: 1.2em;
+	font-family: 'Amatic SC', cursive;
+}
+.hero2{
+
+	color: #fff;
+	margin-top:10px;
+	margin-left: 80px;
+	text-align: left;
+	font-size: 30px;
+	letter-spacing: -.05em;
+	line-height: 1.2em;
+	font-family: 'Amatic SC', cursive;
+}
